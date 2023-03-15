@@ -1,0 +1,36 @@
+.landing {
+    background-image: url("./LandingPage.webp");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.wlc {
+    color: lightyellow;
+    font-style: italic;
+    position: relative;
+    font-size: 115px;
+    background-color: rgb(123, 184, 123);
+}
+
+.btn {
+    cursor: pointer;
+    background: #56c79a;
+
+    border-radius: 15px;
+    font-style: italic;
+
+    color: #ffffff;
+    font-size: 40px;
+    padding: 9px 23px 9px 23px;
+    text-decoration: none;
+    position: relative;
+    margin-top: 25%;
+    margin-left: 75%;
+}

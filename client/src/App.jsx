@@ -7,7 +7,7 @@ import Details from './src/components/Details';
 import axios from 'axios';
 
 // axios.defaults.baseURL = 'http://localhost:3001/';
-axios.defaults.baseURL = 'https://pi-dogs-production-1c96.up.railway.app/';
+axios.defaults.baseURL = 'https://pi-dogs-srig.onrender.com/';
 
 function App() {
 	return (
